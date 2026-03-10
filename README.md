@@ -1,25 +1,5 @@
 # Advanced Linear System Solver
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/MATLAB-R2020b+-blue.svg?logo=mathworks" alt="MATLAB R2020b+"&gt;
-  &lt;img src="https://img.shields.io/badge/Version-2.0-green.svg" alt="Version 2.0"&gt;
-  &lt;img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"&gt;
-  &lt;img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg" alt="Platform"&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;b&gt;A High-Performance Numerical Framework for Computational Physics & Engineering&lt;/b&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;a href="#features"&gt;Features&lt;/a&gt; •
-  &lt;a href="#installation"&gt;Installation&lt;/a&gt; •
-  &lt;a href="#usage"&gt;Usage&lt;/a&gt; •
-  &lt;a href="#methods"&gt;Methods&lt;/a&gt; •
-  &lt;a href="#documentation"&gt;Documentation&lt;/a&gt; •
-  &lt;a href="#citation"&gt;Citation&lt;/a&gt;
-&lt;/p&gt;
-
 ---
 
 ## Overview
